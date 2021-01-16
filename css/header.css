@@ -1,0 +1,49 @@
+.header {
+    position: absolute;
+    top: 0%;
+    height: 30px;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0%;
+    height: 30px;
+}
+
+.header--left {
+    left: 0%;
+    right: 50%;
+    background-color: rgb(0,105,60);
+}
+
+.header--right {
+    right: 0%;
+    left: 50%;
+    background-color: rgb(167,25,48);
+}
+
+.footer--left {
+    left: 0%;
+    right: 67%;
+    background-color: rgb(0,105,60);
+    color: white;
+    font-size: medium;
+    text-align: center;
+    line-height: 30px;
+}
+
+.footer--middle {
+    left: 33%;
+    right: 33%;
+    background-color: rgb(30,30,30);
+    color: white;
+    font-size: medium;
+    text-align: center;
+    line-height: 30px;
+}
+
+.footer--right {
+    left: 67%;
+    right: 0%;
+    background-color: rgb(167,25,48);
+}
