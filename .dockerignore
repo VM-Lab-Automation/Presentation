@@ -9,5 +9,9 @@ log/*.log
 tmp/**
 node_modules/
 .sass-cache
-dist/*.map
-deploy/
+dist/
+.git/
+Dockerfile
+examples/
+.github
+test/
